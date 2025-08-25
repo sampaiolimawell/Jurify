@@ -5,8 +5,8 @@ import fs from 'fs';                         // Módulo para manipulação de ar
 import path from 'path';                     // Módulo para manipulação de caminhos de arquivos
 
 // Credenciais da API
-const USERNAME = 'moovrisk.producao';
-const PASSWORD = 'jd5uU5bsSNYxAdPD@J$FKydGV1QyWt*9kjeBkKQD4nJU5DXxM7^X@08jSqINg%NN50R2HGaSo1!4MX8@433O';
+const USERNAME = '';
+const PASSWORD = '';
 const API_AUTH_URL = 'https://api.predictus.com.br/auth';
 
 // URLs da API para diferentes tipos de consulta
